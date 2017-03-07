@@ -33,6 +33,12 @@ background: url('../img/tsu athletics logo.htm') no-repeat;
 background size: 100%;
 }
 
+/*Footer
+==================================*/
+color: #FFFFFF
+size="2" width="100%" noshade style="color:#FFFFFF" align="center"
+
+
 /*Media Queries
 =================================*/
 @media (max-width: 991px) {
