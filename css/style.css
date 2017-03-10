@@ -1,0 +1,12 @@
+
+/*Main Styles
+=========================*/
+.main-header  {
+background-color: #00539F;
+padding-top: 150px;
+height: 850px;
+background-image: image('../img/tiger.jpg');
+}
+
+/*Media Queries
+==========================*/
