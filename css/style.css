@@ -5,7 +5,7 @@
 background-color: #00539F;
 padding-top: 150px;
 height: 850px;
-background-image: image('../img/tiger.jpg');
+background-image: url('../img/tiger.jpg');
 }
 
 /*Media Queries
