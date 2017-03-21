@@ -42,8 +42,18 @@ background-color: white;
 
 
 
-
-
-
 /*Media Queries
 ==========================*/
+/*phone*/
+@media screen and (max-width: 320px)
+{
+
+
+}
+
+
+/*tablet*/
+@media screen and (min-width: 321px) and (max-width:768px)
+{
+  
+}
